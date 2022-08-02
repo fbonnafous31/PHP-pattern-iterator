@@ -1,0 +1,11 @@
+{
+    "name": "bonnafous/iterator",
+    "description": "Exemple de pattern iterator permettant d'accéder à un fichier CSV (source refactoring.guru.fr)",
+    "authors": [
+        {
+            "name": "François Bonnafous",
+            "email": "francois.bonnafous@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
